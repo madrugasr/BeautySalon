@@ -39,4 +39,4 @@ Contém as seguintes seções:
 
 ### 🔖 Layout
 
-Você pode visualizar o layout do projeto <a href='https://www.figma.com/file/HhmBQpyaYLCzxC06LdtZSU/BeautySalon?node-id=0%3A1' target="_blank"><strong>aqui</strong><a/>. 
+Você pode visualizar o layout do projeto <a href="https://www.figma.com/file/HhmBQpyaYLCzxC06LdtZSU/BeautySalon?node-id=0%3A1" target="_blank"><strong>aqui</strong><a/>. 
