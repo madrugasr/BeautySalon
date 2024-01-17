@@ -25,9 +25,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 💻 Projeto
 
-BeautySalon é uma página construída com o objetivo de atingir o publico de **cabeleireiros**, responsiva, para utilizar em diversos tipos de dispositivos.
+BeautySalon é uma página construída com o objetivo de atingir o publico de cabeleireiros, responsiva, para utilizar em diversos tipos de dispositivos. 
 
-Contém as seguintes seções: 
+Contém como seções: 
 - Header
 - Navigation
 - Home
